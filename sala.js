@@ -4,4 +4,9 @@ class Sala {
         this.idSala = idSala;
         this.pontuacao = pontuacao;
     }
+    chat(text) {
+    idSala () {
+    votos () {
+    }
+    }
 }

@@ -5,4 +5,11 @@ class Personagem {
         this.tarefaConcluida = tarefaConcluida;
         this.status = status;
     }
+    mover() {
+    realizarTarefa() {
+    reportarCorpo() {
+    eliminar() {
+    }
+    }
+}
 }

@@ -4,4 +4,10 @@ class Jogo {
         this.impostor = impostor;
         this.listaTarefas = listaTarefas;
     }
+    inicarJogo() {
+    verificarEstado() {
+    encerrarJogo() {
+}
+    }
+};
 }
